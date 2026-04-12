@@ -68,7 +68,7 @@ Currently, I’m focusing on integrating **LLMs, automation, and low-code soluti
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bayufrd&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bayufrd&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=10" />
 </p>
 
 ---
@@ -82,7 +82,32 @@ Currently, I’m focusing on integrating **LLMs, automation, and low-code soluti
   Inventory & supply chain management dashboard  
 
 - 👥 **Membership Management System**  
-  Backend architecture + database integration  
+  Backend architecture + database integration
+
+---
+
+### 🚀 Selected Projects
+
+#### 🤖 AI Content Manager System  
+Automated content generation, topic planning, and multi-platform scheduling system powered by AI.
+
+#### 💬 AI Financial WhatsApp Bot  
+Smart WhatsApp bot for financial tracking, reporting, and insights using AI-driven responses.
+
+#### 🧠 AI Task Planner  
+Intelligent task management system with AI-assisted planning and productivity optimization.
+
+#### 🏥 AI Chat Landing Pages (Clinic, Dentist, Portfolio)  
+High-converting landing pages with integrated AI assistant chat for customer interaction and lead generation.
+
+#### 💰 AI Tax Calculator Web App  
+Responsive web application for tax calculation with AI-generated explanations and insights.
+
+#### 🛍️ AI-Optimized E-commerce Frontend  
+Frontend architecture for e-commerce platforms enhanced with AI-driven SEO and performance optimization.
+
+#### 📢 AI Content Generator & Auto Posting System  
+End-to-end system for generating content, managing topics, and automating publishing schedules.
 
 ---
 
